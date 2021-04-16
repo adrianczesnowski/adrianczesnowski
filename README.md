@@ -9,6 +9,8 @@
  * JavaScript
  * React / React Hooks / Redux
  * Gatsby
+ * PHP (Basics)
+ * MySQL (Basics)
  * Axios
 
 ## Soft
