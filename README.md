@@ -8,7 +8,7 @@
 ## Skills
  * HTML5 / SCSS
  * JavaScript
- * React / React Hooks / Redux
+ * React / React Hooks / Redux / styled-components / 
  * Gatsby
  * PHP (Basics)
  * MySQL (Basics)
