@@ -3,7 +3,7 @@
  - 👀 I’m interested in Web & Mobile Development
  - 🌱 I’m currently learning React
  - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/adrian-czesnowski-2a782816a/)
- - [CV](https://drive.google.com/file/d/1iD9MvZRUOf-_mBzNhjPNT-lOvlq8TFZL/view?usp=sharing)
+ - [CV](https://drive.google.com/file/d/1AoZ9nRBQlVQYtHWaRJxdx5vgq7QM84Xe/view?usp=sharing)
 
 ## Skills
  * HTML5 / SCSS
