@@ -1,7 +1,7 @@
  # Short bio
  - 👋 Hi, I’m @adrianczesnowski
  - 👀 I’m interested in Web Development
- - 🌱 I’m currently working @[Qodeca](https://www.qodeca.com/) as Junior Frontend Developer
+ - 🌱 I’m currently working @ [Qodeca](https://www.qodeca.com/) as Junior Frontend Developer
  - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/adrian-czesnowski-2a782816a/)
 
 ## Skills
