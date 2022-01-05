@@ -8,7 +8,6 @@
  * HTML5 / SCSS
  * JavaScript / TypeScript
  * React / React Hooks / Redux / styled-components
- * React Native
  * Gatsby / Next.js
  * PHP (Basics)
  * MySQL (Basics)
