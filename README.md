@@ -18,7 +18,7 @@ I have over 2 years of commercial experience, and I started my adventure with pr
 
   Currently learning:
   - Vue.js
-  - .NET
+  - NestJS
 
 
 ## 🔗 Links
