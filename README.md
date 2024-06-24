@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Adrian and I'm currently working as a Flutter Developer @ THOC.</p>
+<p align="left">My name is Adrian and I'm currently working as a Flutter Developer @ The House of Code</p>
 
 ###
 
@@ -57,7 +57,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.google.com" target="_blank">
+  <a href="https://www.linkedin.com/in/adrian-czesnowski/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
