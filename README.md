@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Adrian and I'm currently working as a Flutter Developer @ The House of Code</p>
+<p align="left">My name is Adrian and I'm currently working as a Flutter Developer @ The House of Code!</p>
 
 ###
 
